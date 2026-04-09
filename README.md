@@ -72,7 +72,7 @@ Choose one of the following notebooks:
 | Notebook           | Description             |
 |-------------------|------------------------|
 | `NDVI_model.ipynb`  | NDVI-based classifier   |
-| `RGB_model.ipynb`   | RGB-based classifier    |
+| `RGB_model.ipynb`+ `SSCMRF.ipynb`   | RGB-based classifier    |
 | `RGB_NIR.ipynb`     | RGB + NIR classifier    |
 
 Each notebook contains:  
@@ -103,7 +103,7 @@ Included in this repository:
   GitHub: [https://github.com/MohamedELHalmoushy](https://github.com/MohamedELHalmoushy)
 
 - **Mohamed Mourad** — DEPI Student, Land Classification Project  
-
+  GitHub: [https://github.com/Mohamed0-0Mourad](https://github.com/Mohamed0-0Mourad)
 - **Mahmoud Mohamed** — DEPI Student, Land Classification Project  
 
 - **Youssef Adawy** — DEPI Student, Land Classification Project  
